@@ -1,3 +1,5 @@
+Forked solely as to provide binary release I found on Vietnamese file sharing site- after the fall of WinTense it is VERY difficult to find this plugin on the internet, and archive.org didn't back any of it up probably because of e s o t e r i c WordPress backend decisions.
+
 TouchRemote
 ===========
 
